@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pex_cheeseburger.mk
+    $(LOCAL_DIR)/kangos_cheeseburger.mk
 
 COMMON_LUNCH_CHOICES := \
-    pex_cheeseburger-user \
-    pex_cheeseburger-userdebug \
-    pex_cheeseburger-eng
+    kangos_cheeseburger-user \
+    kangos_cheeseburger-userdebug \
+    kangos_cheeseburger-eng
